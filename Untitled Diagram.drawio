@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T19:38:14.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 YaBrowser/21.11.0.1996 Yowser/2.5 Safari/537.36" etag="L7rojKfa2wibsiaB8ozT" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-23T19:54:22.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 YaBrowser/21.11.0.1996 Yowser/2.5 Safari/537.36" etag="bmwnv3exBBALNplnBKl2" version="15.8.3" type="github">
   <diagram id="qPGfvWFNzOa745rkmDFE" name="Page-1">
     <mxGraphModel dx="817" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,11 +88,11 @@
             <mxPoint x="520" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qEhfhbL_20rRrMWLhHlk-26" value="1. Регистрируется&lt;br&gt;2. Просмотр списка" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="20" width="120" height="30" as="geometry" />
+        <mxCell id="qEhfhbL_20rRrMWLhHlk-26" value="1. Регистрируется&lt;br&gt;2. Просмотр списка товаров" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="20" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qEhfhbL_20rRrMWLhHlk-28" value="1.1 Хранит данные&lt;br&gt;1.2 Предоставляет список&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="120" width="160" height="30" as="geometry" />
+        <mxCell id="qEhfhbL_20rRrMWLhHlk-28" value="1.1 Хранит данные&lt;br&gt;2.1 Предоставляет список товаров" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="229" y="120" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qEhfhbL_20rRrMWLhHlk-29" value="3. Авторизируется&lt;br&gt;4. Выбирает товар&lt;br&gt;5. Оплачивает товар" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="245" y="220" width="130" height="50" as="geometry" />
@@ -105,6 +105,9 @@
         </mxCell>
         <mxCell id="qEhfhbL_20rRrMWLhHlk-33" value="6.Изменяет список&lt;br&gt;7. Удаляет список&lt;br&gt;8. Добавляет список" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="680" y="210" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qEhfhbL_20rRrMWLhHlk-34" value="6.1 Хранит изменения&lt;br&gt;7.1 Хранит данные" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="540" y="240" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
